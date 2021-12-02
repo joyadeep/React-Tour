@@ -1,3 +1,13 @@
+# React Mini Project 2
+
+## Tech Used
+### React
+### UseState Hook
+### Vanilla CSS
+
+## About Project
+### Displays places to visit just like Travel Agency Site. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
